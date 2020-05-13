@@ -1,0 +1,39 @@
+<resources>
+    <string name="app_name">Instagram App</string>
+    <string name="font_instagram">Instagram</string>
+    <string name="username">undraw.com</string>
+    <string name="description">The design project with open-source</string>
+    <string name="description2">"illustrations for any idea you can imagine and create. Create beautiful websites, products and applications with your color."</string>
+    <string name="comment">Comment</string>
+    <string name="post">Post</string>
+    <string name="header">header</string>
+    <string name="body">body</string>
+    <string name="like">like</string>
+    <string name="send">send</string>
+    <string name="bookmark">bookmark</string>
+    <string name="usernames">anymousone</string>
+    <string name="background">bg_story</string>
+    <string name="photo">photo sg</string>
+
+    <string-array name="username">
+        <item>anymousone</item>
+        <item>anymoustwo</item>
+        <item>anymousthree</item>
+        <item>anymousfour</item>
+        <item>anymousfive</item>
+    </string-array>
+
+    <array name="image">
+        <item>@drawable/sg1_ig</item>
+        <item>@drawable/sg2_ig</item>
+        <item>@drawable/sg3_ig</item>
+        <item>@drawable/sg4_ig</item>
+        <item>@drawable/sg5_ig</item>
+    </array>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="result">...</string>
+    <string name="error_empty_field">EMPTY</string>
+    <string name="add_comment">Add Comment</string>
+</resources>
